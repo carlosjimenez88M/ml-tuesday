@@ -31,6 +31,6 @@ Feel free to clone this repo and make recommendations about problems, tools, pap
 
 ## Content 
 
-|Date|Topic|  Code |
-|---:|----:|------:|
-|2024-01-16|Autlog with MLflow|  []() |
+|Date|Topic|           Code |       Description |
+|---:|----:|---------------:|------------------:|
+|2024-01-16|Autlog with MLflow| [Project #1](https://github.com/carlosjimenez88M/ml-tuesday/tree/master/Tech/2024-01-16-AutlogMLflow) | [Documentation](https://github.com/carlosjimenez88M/ml-tuesday/blob/master/Tech/2024-01-16-AutlogMLflow/Readme.md) |

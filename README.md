@@ -1,7 +1,7 @@
 # Machine Learning Tuesday 
 
 ![](mllogo.png)
-    * Image create with DALLE 
+    * Image create by: DALLE 
 
 ## About Machine Learning Tuesday
 
